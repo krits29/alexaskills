@@ -1,0 +1,56 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "hindustani music facts",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "a fact",
+                        "a music fact",
+                        "a hindustani music fact",
+                        "tell me a fact",
+                        "tell me a music fact",
+                        "tell me a hindustani music fact",
+                        "give me a fact",
+                        "give me a music fact",
+                        "give me a hindustani music fact",
+                        "tell me trivia",
+                        "tell me a music trivia",
+                        "give me trivia",
+                        "give me a music trivia",
+                        "give me some information",
+                        "give me some music information",
+                        "give me some hindustani music information",
+                        "tell me something",
+                        "tell me something about hindustani music",
+                        "tell me something about music",
+                        "give me something"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
